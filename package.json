@@ -1,7 +1,9 @@
 {
   "name": "armar-tu-prenda",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Martin Garcia <martingarcia1>",
   "type": "module",
   "scripts": {
     "dev": "vite",
